@@ -1,0 +1,13 @@
+body {
+    background-color: #EAE4D5;
+    
+}
+
+footer{
+    color: #008000;
+    font-size: 5em;
+}
+
+body{
+    transform: rotate(15);
+}
